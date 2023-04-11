@@ -1,3 +1,6 @@
+-- Library
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+
 -- Window
 local Window = Rayfield:CreateWindow({
    Name = "Natural Disaster Survival",
